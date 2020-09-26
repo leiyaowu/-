@@ -5,9 +5,20 @@
 ## 我自己的网页
 
 
-You can use the [editor on GitHub](https://github.com/leiyaowu/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+弹幕列表
+该视频弹幕为空
+视频选集
+3/72
+P1 js001-认识页面的本质 修改百度
+P2 js002-在github建立自己的域名和网站
+P3 js003-从零开始做一个全新的网页
+P4 js004在github建立目录 上传图片
+P5 js005-下载github代码 在本地编辑
+P6 js006-在webStorm里面配置github 然后自动commit push提交
+P7 js007-制作简单css动画
+P8 js008-插入音频bgm音乐
+P9 js009-分别出现的歌词字幕
+P10 js010-安装配置火狐 查看动画效果
 
 ### Markdown
 
